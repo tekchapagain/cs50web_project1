@@ -15,6 +15,7 @@ The aim of this project was to build a Wikipedia-like online encyclopedia using 
 
 * Front-end:
   * HTML (with Django templating)
+  * CSS
 
 
 ### Project Requirements:
